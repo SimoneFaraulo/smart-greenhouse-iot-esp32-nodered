@@ -8,6 +8,18 @@ A **Node-RED dashboard** provides real-time monitoring, historical data visualiz
 
 ---
 
+## Project Preview  
+
+Here are some visuals of the implemented system and dashboard:  
+
+### Node-RED Dashboard  
+![Dashboard Preview](./images/dashboard.png)  
+
+### Physical Greenhouse Prototype  
+![System Prototype](./images/greenhouse_prototype.jpg)  
+
+---
+
 ## Features  
 - 🌱 **Irrigation**:  
   - Automatic watering based on soil humidity thresholds set via dashboard.  
