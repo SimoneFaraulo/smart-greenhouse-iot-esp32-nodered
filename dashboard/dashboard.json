@@ -1,0 +1,5371 @@
+[
+    {
+        "id": "6c260087634d3168",
+        "type": "tab",
+        "label": "SmartGreenhouse",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7f8a716c21152891",
+        "type": "tab",
+        "label": "Illuminazione",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "03520b3c156b238e",
+        "type": "tab",
+        "label": "Irrigazione",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4554b45e05cda258",
+        "type": "tab",
+        "label": "Areazione",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9015b117e106c4b3",
+        "type": "tab",
+        "label": "Statistiche",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "85dbd71cc07ec2c0",
+        "type": "group",
+        "z": "6c260087634d3168",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1476224820259e31",
+            "30d6fca753d2cd47",
+            "c43dc78a9294117e",
+            "63f61f112eceacc7",
+            "5fa4d199c5945616",
+            "578225c017fe2b11",
+            "261c9e7c52593784",
+            "b13215ca14c029ef",
+            "4b31b3c475d6b694",
+            "d8fcfcba85c28501",
+            "179a44cde9e78c17"
+        ],
+        "x": 214,
+        "y": 1119,
+        "w": 892,
+        "h": 362
+    },
+    {
+        "id": "45c898bb1350a876",
+        "type": "group",
+        "z": "6c260087634d3168",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2ed86d1342eeda52",
+            "8d9a7f444d1304df",
+            "485c5bc0b9cca8c4",
+            "c023061079b3a031",
+            "4e7bfbc10c31819d",
+            "19fa21d58e4ab9cc",
+            "b541069dcab3a6eb",
+            "51a2f26033fc7ad3",
+            "37e2f640bea3e67a",
+            "e528259c25b01cbf",
+            "a8ec7a5b72a82199",
+            "73f826122ee2bc59",
+            "b541d01225465d53",
+            "ec457f3ed4c599d1",
+            "5bcfc1253ab59872",
+            "33ebee99488a8990",
+            "dc5207eff823768e",
+            "eb5d1fcf59745f7d",
+            "a9ecdeafa1a5f53c",
+            "12e4f3e65e6ca8c5",
+            "0f94f3b2b0fa0f1b",
+            "620af6a67271c861",
+            "6cf9f533e4627e37",
+            "9cdf7eb05074fc64"
+        ],
+        "x": 94,
+        "y": 139,
+        "w": 1312,
+        "h": 502
+    },
+    {
+        "id": "2368a8aa1456c4e2",
+        "type": "group",
+        "z": "6c260087634d3168",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7038eea6567a972f",
+            "ecc6f6d4ef57fd7f",
+            "ceaef3f72280cbee",
+            "59df523e944a7def",
+            "ed05862ada5e6e77",
+            "b4f75239a7a6dc56",
+            "854a08befc99f3e3",
+            "df087972f55f1e46",
+            "42ac3f06dd5ca7b6",
+            "b136f0b55d617723",
+            "13773a8077685c87",
+            "10c599892d9e20ab",
+            "a1f8be2431ac491d",
+            "85bedf367399b7c7",
+            "e704d25564758282",
+            "51be95991ca7b25a",
+            "1be2d4a6207369ec",
+            "fee0136ec9806b9f",
+            "7adeb1ad62d6b61e",
+            "c51fd263cd44de2e",
+            "b609ba749cf7d9c4",
+            "e194680e58e16deb",
+            "7a91648b74e31134",
+            "173470b038d1c5ae",
+            "4df41940ab20994f",
+            "f6499eefb53b6f47"
+        ],
+        "x": 74,
+        "y": 679,
+        "w": 1272,
+        "h": 402
+    },
+    {
+        "id": "cd19b81c57d59fcf",
+        "type": "group",
+        "z": "7f8a716c21152891",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6eda59df509f82a7",
+            "70505eb66e7736f8",
+            "de34e1b2cef55339",
+            "b6799f5c79148708",
+            "b54f2e3b07bde103"
+        ],
+        "x": 714,
+        "y": 19,
+        "w": 292,
+        "h": 242
+    },
+    {
+        "id": "4b598629f1a2fdc2",
+        "type": "group",
+        "z": "7f8a716c21152891",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "818129fe9f27c213",
+            "5b5c51ff6eb09e51",
+            "f6d7a41251c708f5"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 292,
+        "h": 202
+    },
+    {
+        "id": "93d1712ab51f05a8",
+        "type": "group",
+        "z": "7f8a716c21152891",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2f6690585d66e25e",
+            "b3f564aeb1201595",
+            "118096b9041b8663",
+            "dbf31b5e381b0e54"
+        ],
+        "x": 34,
+        "y": 519,
+        "w": 272,
+        "h": 202
+    },
+    {
+        "id": "9b59e1636c4a9d5f",
+        "type": "group",
+        "z": "03520b3c156b238e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9b492d7f858986cd",
+            "ae0d142bd103608a",
+            "251b599f5128e2b7"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 292,
+        "h": 182
+    },
+    {
+        "id": "f1e0f0486f24b026",
+        "type": "group",
+        "z": "4554b45e05cda258",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f67c0f7b268792d3",
+            "0567d8a0bee0c3de",
+            "7f8082209b0f4c4a"
+        ],
+        "x": 94,
+        "y": 19,
+        "w": 272,
+        "h": 182
+    },
+    {
+        "id": "71df34bdac1f2a7e",
+        "type": "group",
+        "z": "9015b117e106c4b3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "82d5614557b94e9b",
+            "130676496113b955",
+            "3eb58436c0fd4dfc"
+        ],
+        "x": 54,
+        "y": 79,
+        "w": 732,
+        "h": 122
+    },
+    {
+        "id": "28e95888b1e22b9c",
+        "type": "group",
+        "z": "9015b117e106c4b3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "064d952b2fc9c5a0",
+            "8526cbb603732a3e"
+        ],
+        "x": 54,
+        "y": 1079,
+        "w": 292,
+        "h": 122
+    },
+    {
+        "id": "8e94eb96f392f847",
+        "type": "group",
+        "z": "9015b117e106c4b3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5cb155bba4a4bfdc",
+            "c22273bb68f30ec6",
+            "5bd08717b19a2e74",
+            "334e05b4d5270baf",
+            "2285bd3cc0948622",
+            "8fe0cd86dec22a83",
+            "47cafebb35aea837",
+            "158e7d4088fc4467",
+            "a7a6c1dc02979dbe",
+            "61a49ec65ee3905e",
+            "545b7aeb10fa56fe",
+            "aa31122102df1bf0",
+            "b940efc28a92ee2f",
+            "e72195b9af7c7ef3",
+            "985fd3d9e38c7e6e",
+            "e10b0ce3bda275d1",
+            "cb6572360155a7ba",
+            "dd24d86311d3a51c",
+            "40867d5feafcde45",
+            "6a40e9b57740d1b3",
+            "9ec857bbc97a71cb",
+            "fe8575482a7140a7",
+            "d3d16090a642af39",
+            "0df2b4b1c6973633",
+            "0af985d161527122",
+            "c57393b270a94006",
+            "e5601b582b64c99f",
+            "fa16ae2e2377fb04",
+            "026f40fed7be086a",
+            "d9d2711dda67c68e"
+        ],
+        "x": 54,
+        "y": 239,
+        "w": 1212,
+        "h": 462
+    },
+    {
+        "id": "8c5e415b6f2c0fb8",
+        "type": "group",
+        "z": "9015b117e106c4b3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f472b7bb0fb590c2",
+            "e5d8fde28ec32a0c",
+            "b9ed95129ea972ac",
+            "756b446facaa7fdf",
+            "2c2955c481820761",
+            "b820baa9532b5aa5",
+            "d153694b8da6f9af",
+            "c0923620dbd714b1"
+        ],
+        "x": 54,
+        "y": 899,
+        "w": 1172,
+        "h": 142
+    },
+    {
+        "id": "0bcff986aff194d7",
+        "type": "group",
+        "z": "6c260087634d3168",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5ef6641376ca7d83",
+            "3bdfcfd0d3da49b7",
+            "70ae4b3be7bd94b5"
+        ],
+        "x": 1374,
+        "y": 679,
+        "w": 292,
+        "h": 182
+    },
+    {
+        "id": "ada6ee848e5be435",
+        "type": "group",
+        "z": "9015b117e106c4b3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a91d0ecc9ecd563c",
+            "b118dcbb7f661a0f",
+            "6dc1934199220dc6",
+            "75381d4c95e5df5e",
+            "278a096e75e390f0",
+            "7074cf9a5ff67bcd",
+            "c529f71062059267"
+        ],
+        "x": 54,
+        "y": 719,
+        "w": 932,
+        "h": 142
+    },
+    {
+        "id": "a83802e5421ea4d7",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0cd354",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#0cd354",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#4B7930",
+                    "value": "#0cd354",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0cd354",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#05be70",
+                    "edited": true
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0cd354",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "0b4bba0d13939196",
+        "type": "ui_group",
+        "name": "Ambiente",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0179a7e9b206cc8e",
+        "type": "ui_group",
+        "name": "Terreno",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c8298a5ce636f26f",
+        "type": "ui_tab",
+        "name": "Illuminazione",
+        "icon": "fa-lightbulb-o",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "4e30b7ae1022241d",
+        "type": "ui_tab",
+        "name": "Irrigazione",
+        "icon": "fa-tint",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ff9c30e4f224e3af",
+        "type": "ui_tab",
+        "name": "Aerazione",
+        "icon": "dashboard",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "2e8dacbbfc400c2c",
+        "type": "ui_group",
+        "name": "Modalità",
+        "tab": "c8298a5ce636f26f",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6cbb86c6f6977035",
+        "type": "ui_group",
+        "name": "Modalità",
+        "tab": "4e30b7ae1022241d",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d1bc0ee9b9a2665f",
+        "type": "ui_group",
+        "name": "Modalità",
+        "tab": "ff9c30e4f224e3af",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7a5c163165b56cce",
+        "type": "ui_group",
+        "name": "Settaggio",
+        "tab": "4e30b7ae1022241d",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "979d0e2187393c2e",
+        "type": "ui_group",
+        "name": "Settaggio",
+        "tab": "ff9c30e4f224e3af",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "02b3dec6aed9d9b7",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "46ea5f3bafb246c0",
+        "type": "ui_group",
+        "name": "Irrigazione",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4ab5585b3a9fc947",
+        "type": "ui_group",
+        "name": "Illuminazione",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "21785a323a347b75",
+        "type": "ui_group",
+        "name": "Areazione",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 6,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e49ec4d7c48e7b2d",
+        "type": "ui_group",
+        "name": "Settaggio",
+        "tab": "c8298a5ce636f26f",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e6a13c84a3933bd3",
+        "type": "ui_group",
+        "name": "Esterno",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "32ccd5a6aeb6d9dd",
+        "type": "ui_group",
+        "name": "Ventilazione automatica",
+        "tab": "ff9c30e4f224e3af",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e2a478fa446dd685",
+        "type": "ui_group",
+        "name": "Irrigazione automatica",
+        "tab": "4e30b7ae1022241d",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4e8c1fc8206f091f",
+        "type": "ui_group",
+        "name": "Riavvio",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 8,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6f0b355f81a6694d",
+        "type": "ui_group",
+        "name": "Illuminazione automatica",
+        "tab": "c8298a5ce636f26f",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ac2a9652fcbea5b9",
+        "type": "ui_tab",
+        "name": "SmartGreenhouse",
+        "icon": "fa-home",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "1257011edb1635c1",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8e6148b63c3d0b38",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4370f982f82b5b35",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bb345c16c8dd34f5",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c2d12b5c7b5ec43e",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "67758af09356baa7",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "972947d109aa912c",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9d01aec4aea94643",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "e6a13c84a3933bd3",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "90708ca69482b345",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "46ea5f3bafb246c0",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "36d3d070d0e1b696",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "21785a323a347b75",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "80dabf61c7755dcb",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "0179a7e9b206cc8e",
+        "order": 3,
+        "width": "3",
+        "height": "4"
+    },
+    {
+        "id": "0c2dce1446177f8f",
+        "type": "ui_tab",
+        "name": "Statistiche",
+        "icon": "fa-bar-chart",
+        "order": 5,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "c229946e56b65abb",
+        "type": "ui_group",
+        "name": "Monitoraggio temperatura ambiente",
+        "tab": "0c2dce1446177f8f",
+        "order": 1,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "535469324e6f3e3a",
+        "type": "influxdb",
+        "hostname": "https://eu-central-1-1.aws.cloud2.influxdata.com/",
+        "port": "8086",
+        "protocol": "http",
+        "database": "database",
+        "name": "Cloud",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "https://eu-central-1-1.aws.cloud2.influxdata.com",
+        "timeout": "10",
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "d708318301dd8673",
+        "type": "ui_group",
+        "name": "Porta",
+        "tab": "ac2a9652fcbea5b9",
+        "order": 7,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "acf47c9b3cb4aa24",
+        "type": "ui_group",
+        "name": "Letture sensori temperatura ambiente",
+        "tab": "0c2dce1446177f8f",
+        "order": 2,
+        "disp": true,
+        "width": 13,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "16c59465567046f0",
+        "type": "remote-config",
+        "name": "SmartGreenhouse",
+        "host": "localhost",
+        "protocol": "http",
+        "port": "1880",
+        "baseurl": "/ui",
+        "instancehash": "pq552pwvbuursq38dinhbwmtoucs083bcf3lgu2m0fvf6v929xp14ajfpx3ru5fj",
+        "server": "nodered04.remote-red.com",
+        "region": "de"
+    },
+    {
+        "id": "dac07361045394b4",
+        "type": "ui_group",
+        "name": "Grafico andamento",
+        "tab": "0c2dce1446177f8f",
+        "order": 3,
+        "disp": false,
+        "width": 13,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "577d7d625f5bc105",
+        "type": "ui_spacer",
+        "z": "9015b117e106c4b3",
+        "name": "spacer",
+        "group": "4e8c1fc8206f091f",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "6eebe59d9a3c370a",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "c229946e56b65abb",
+        "order": 4,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "544c80680b6b1551",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "c229946e56b65abb",
+        "order": 6,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "c0dcd30fa90daab0",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "c229946e56b65abb",
+        "order": 10,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "5ba3de0d5436375b",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "c229946e56b65abb",
+        "order": 11,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "7c3f01221671593a",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "acf47c9b3cb4aa24",
+        "order": 2,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "728acc2f52cb7727",
+        "type": "ui_spacer",
+        "z": "6c260087634d3168",
+        "name": "spacer",
+        "group": "acf47c9b3cb4aa24",
+        "order": 4,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "2ed86d1342eeda52",
+        "type": "ui_gauge",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "0b4bba0d13939196",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatura ambiente",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#0350fc",
+            "#ffd731",
+            "#fd3301"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1000,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "8d9a7f444d1304df",
+        "type": "ui_gauge",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "0b4bba0d13939196",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Umidità ambiente",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ffb748",
+            "#ffffcc",
+            "#b3ddff"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 990,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "485c5bc0b9cca8c4",
+        "type": "ui_gauge",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "0179a7e9b206cc8e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Umidità terreno",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#d0ae8b",
+            "#505050",
+            "#73ccd8"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 980,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "c023061079b3a031",
+        "type": "ui_chart",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "0b4bba0d13939196",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Andamento temperatura",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Nessuna temperatura registrata",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1070,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4e7bfbc10c31819d",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "topic": "SmartGreenhouse/Environment/Temp",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 290,
+        "y": 240,
+        "wires": [
+            [
+                "73f826122ee2bc59"
+            ]
+        ]
+    },
+    {
+        "id": "19fa21d58e4ab9cc",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "topic": "SmartGreenhouse/Environment/Humidity",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 300,
+        "y": 180,
+        "wires": [
+            [
+                "b541d01225465d53"
+            ]
+        ]
+    },
+    {
+        "id": "b541069dcab3a6eb",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "topic": "SmartGreenhouse/Ground/Humidity",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 280,
+        "y": 340,
+        "wires": [
+            [
+                "ec457f3ed4c599d1"
+            ]
+        ]
+    },
+    {
+        "id": "7038eea6567a972f",
+        "type": "ui_text",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "group": "46ea5f3bafb246c0",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Stato pompa",
+        "format": "<font color={{fcolor}}>{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1250,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "ecc6f6d4ef57fd7f",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/Pump",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 280,
+        "y": 800,
+        "wires": [
+            [
+                "51be95991ca7b25a"
+            ]
+        ]
+    },
+    {
+        "id": "ceaef3f72280cbee",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Conversione",
+        "func": "//Conversione da stato della pompa a stringa ON/OFF da mostrare\nvar pump = msg.payload;\n\nvar testo = pump ? \"ON\" : \"OFF\";\n\nmsg.payload = testo;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 820,
+        "wires": [
+            [
+                "42ac3f06dd5ca7b6"
+            ]
+        ]
+    },
+    {
+        "id": "59df523e944a7def",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/LED",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 300,
+        "y": 720,
+        "wires": [
+            [
+                "e704d25564758282"
+            ]
+        ]
+    },
+    {
+        "id": "ed05862ada5e6e77",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Conversione",
+        "func": "//Conversione per determinare lo stato acceso/spento dei LED da mostrare\nvar lum = msg.payload;\n\nvar stato = lum != 0 ? true : false;\n\nmsg.payload = stato;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 740,
+        "wires": [
+            [
+                "b609ba749cf7d9c4"
+            ]
+        ]
+    },
+    {
+        "id": "b4f75239a7a6dc56",
+        "type": "ui_text",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "group": "21785a323a347b75",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Stato ventola",
+        "format": "<font color={{fcolor}}>{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1250,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "854a08befc99f3e3",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/Fan",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 280,
+        "y": 920,
+        "wires": [
+            [
+                "1be2d4a6207369ec"
+            ]
+        ]
+    },
+    {
+        "id": "df087972f55f1e46",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Conversione",
+        "func": "//Conversione da stato della ventola a stringa ON/OFF da mostrare\nvar fan = msg.payload;\n\nvar testo = fan != 0 ? \"ON\" : \"OFF\";\n\nmsg.payload = testo;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 940,
+        "wires": [
+            [
+                "10c599892d9e20ab"
+            ]
+        ]
+    },
+    {
+        "id": "51a2f26033fc7ad3",
+        "type": "ui_gauge",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "e6a13c84a3933bd3",
+        "order": 2,
+        "width": 5,
+        "height": 8,
+        "gtype": "wave",
+        "title": "Riempimento cisterna",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1280,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "42ac3f06dd5ca7b6",
+        "type": "switch",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "setColor",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ON",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "OFF",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 920,
+        "y": 820,
+        "wires": [
+            [
+                "b136f0b55d617723"
+            ],
+            [
+                "13773a8077685c87"
+            ]
+        ]
+    },
+    {
+        "id": "b136f0b55d617723",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Verde",
+        "rules": [
+            {
+                "t": "set",
+                "p": "fcolor",
+                "pt": "msg",
+                "to": "green",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 800,
+        "wires": [
+            [
+                "7038eea6567a972f"
+            ]
+        ]
+    },
+    {
+        "id": "13773a8077685c87",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Rosso",
+        "rules": [
+            {
+                "t": "set",
+                "p": "fcolor",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 840,
+        "wires": [
+            [
+                "7038eea6567a972f"
+            ]
+        ]
+    },
+    {
+        "id": "10c599892d9e20ab",
+        "type": "switch",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "setColor",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ON",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "OFF",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 920,
+        "y": 940,
+        "wires": [
+            [
+                "a1f8be2431ac491d"
+            ],
+            [
+                "85bedf367399b7c7"
+            ]
+        ]
+    },
+    {
+        "id": "a1f8be2431ac491d",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Verde",
+        "rules": [
+            {
+                "t": "set",
+                "p": "fcolor",
+                "pt": "msg",
+                "to": "green",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 920,
+        "wires": [
+            [
+                "b4f75239a7a6dc56"
+            ]
+        ]
+    },
+    {
+        "id": "85bedf367399b7c7",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Rosso",
+        "rules": [
+            {
+                "t": "set",
+                "p": "fcolor",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 960,
+        "wires": [
+            [
+                "b4f75239a7a6dc56"
+            ]
+        ]
+    },
+    {
+        "id": "37e2f640bea3e67a",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/Cistern",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 260,
+        "y": 540,
+        "wires": [
+            [
+                "5bcfc1253ab59872"
+            ]
+        ]
+    },
+    {
+        "id": "e528259c25b01cbf",
+        "type": "template",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Stile",
+        "field": "ui_control",
+        "fieldType": "msg",
+        "format": "json",
+        "syntax": "mustache",
+        "template": "{\n\n    \"options\":{\n        \"waveColor\": \"#1ca3ec\"\n    }\n}",
+        "output": "json",
+        "x": 1030,
+        "y": 540,
+        "wires": [
+            [
+                "51a2f26033fc7ad3"
+            ]
+        ]
+    },
+    {
+        "id": "a8ec7a5b72a82199",
+        "type": "ui_chart",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "0179a7e9b206cc8e",
+        "order": 2,
+        "width": 6,
+        "height": 4,
+        "label": "Andamento umidità",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Nessuna umidità registrata",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1050,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "73f826122ee2bc59",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Estrazione temp",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 240,
+        "wires": [
+            [
+                "2ed86d1342eeda52",
+                "c023061079b3a031"
+            ]
+        ]
+    },
+    {
+        "id": "b541d01225465d53",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Estrazione humidity",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.humidity",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 570,
+        "y": 180,
+        "wires": [
+            [
+                "8d9a7f444d1304df"
+            ]
+        ]
+    },
+    {
+        "id": "ec457f3ed4c599d1",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Estrazione humidity",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.humidity",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 340,
+        "wires": [
+            [
+                "a8ec7a5b72a82199",
+                "6cf9f533e4627e37"
+            ]
+        ]
+    },
+    {
+        "id": "e704d25564758282",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Estrazione light",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.light",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 720,
+        "wires": [
+            [
+                "ed05862ada5e6e77"
+            ]
+        ]
+    },
+    {
+        "id": "51be95991ca7b25a",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Estrazione pump",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.pump",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 800,
+        "wires": [
+            [
+                "ceaef3f72280cbee"
+            ]
+        ]
+    },
+    {
+        "id": "1be2d4a6207369ec",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Estrazione fan",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.fan",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 920,
+        "wires": [
+            [
+                "df087972f55f1e46"
+            ]
+        ]
+    },
+    {
+        "id": "5bcfc1253ab59872",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Estrazione cistern_level",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.cistern_level",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 540,
+        "wires": [
+            [
+                "12e4f3e65e6ca8c5",
+                "620af6a67271c861"
+            ]
+        ]
+    },
+    {
+        "id": "33ebee99488a8990",
+        "type": "ui_chart",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "group": "e6a13c84a3933bd3",
+        "order": 1,
+        "width": 6,
+        "height": 4,
+        "label": "Andamento luminosità",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Nessuna luminosità registrata",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1060,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dc5207eff823768e",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Estrazione light",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.light",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 460,
+        "wires": [
+            [
+                "33ebee99488a8990"
+            ]
+        ]
+    },
+    {
+        "id": "eb5d1fcf59745f7d",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "",
+        "topic": "SmartGreenhouse/External/Lum",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 270,
+        "y": 420,
+        "wires": [
+            [
+                "dc5207eff823768e"
+            ]
+        ]
+    },
+    {
+        "id": "fee0136ec9806b9f",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/ManualLED",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 270,
+        "y": 760,
+        "wires": [
+            [
+                "ed05862ada5e6e77"
+            ]
+        ]
+    },
+    {
+        "id": "7adeb1ad62d6b61e",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/ManualPump",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 260,
+        "y": 840,
+        "wires": [
+            [
+                "ceaef3f72280cbee"
+            ]
+        ]
+    },
+    {
+        "id": "c51fd263cd44de2e",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/ManualFan",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 260,
+        "y": 960,
+        "wires": [
+            [
+                "df087972f55f1e46"
+            ]
+        ]
+    },
+    {
+        "id": "b609ba749cf7d9c4",
+        "type": "ui_led",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "order": 3,
+        "group": "4ab5585b3a9fc947",
+        "width": "0",
+        "height": "0",
+        "label": "Stato luci",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ca2424",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ee9b9b",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "Stato luci",
+        "x": 960,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "1476224820259e31",
+        "type": "ui_button",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "",
+        "group": "4e8c1fc8206f091f",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "RIAVVIO",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "fa-repeat",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 300,
+        "y": 1160,
+        "wires": [
+            [
+                "30d6fca753d2cd47",
+                "c43dc78a9294117e",
+                "261c9e7c52593784"
+            ]
+        ]
+    },
+    {
+        "id": "30d6fca753d2cd47",
+        "type": "mqtt out",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "",
+        "topic": "SmartGreenhouse/Restart",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 570,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "a9ecdeafa1a5f53c",
+        "type": "ui_toast",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "position": "dialog",
+        "displayTime": "5",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Notifica cisterna",
+        "x": 1300,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "12e4f3e65e6ca8c5",
+        "type": "switch",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Livello critico",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lte",
+                "v": "10",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 830,
+        "y": 600,
+        "wires": [
+            [
+                "0f94f3b2b0fa0f1b",
+                "3bdfcfd0d3da49b7"
+            ]
+        ]
+    },
+    {
+        "id": "0f94f3b2b0fa0f1b",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Compose notification message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Livello critico riempimento cisterna",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Il serbatoio è quasi vuoto",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1070,
+        "y": 600,
+        "wires": [
+            [
+                "a9ecdeafa1a5f53c"
+            ]
+        ]
+    },
+    {
+        "id": "c43dc78a9294117e",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "Disable manual ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 1380,
+        "wires": [
+            [
+                "63f61f112eceacc7",
+                "5fa4d199c5945616",
+                "578225c017fe2b11"
+            ]
+        ]
+    },
+    {
+        "id": "63f61f112eceacc7",
+        "type": "mqtt out",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 750,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "5fa4d199c5945616",
+        "type": "mqtt out",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 760,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "578225c017fe2b11",
+        "type": "mqtt out",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 770,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "261c9e7c52593784",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "Clear charts",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 1260,
+        "wires": [
+            [
+                "33ebee99488a8990",
+                "a8ec7a5b72a82199",
+                "c023061079b3a031",
+                "4b31b3c475d6b694"
+            ]
+        ]
+    },
+    {
+        "id": "b13215ca14c029ef",
+        "type": "ui_toast",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "position": "dialog",
+        "displayTime": "5",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Notifica riavvio",
+        "x": 1000,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4b31b3c475d6b694",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "Compose notification message",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Riavvio del sistema",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Il sistema è stato riavviato",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 730,
+        "y": 1260,
+        "wires": [
+            [
+                "b13215ca14c029ef",
+                "179a44cde9e78c17"
+            ]
+        ]
+    },
+    {
+        "id": "620af6a67271c861",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Arrotondamento",
+        "func": "//Arrotondamento che approssima la parte decimale\nmsg.payload = Math.round(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 540,
+        "wires": [
+            [
+                "e528259c25b01cbf"
+            ]
+        ]
+    },
+    {
+        "id": "e194680e58e16deb",
+        "type": "mqtt in",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "",
+        "topic": "SmartGreenhouse/DoorState",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 300,
+        "y": 1040,
+        "wires": [
+            [
+                "7a91648b74e31134"
+            ]
+        ]
+    },
+    {
+        "id": "7a91648b74e31134",
+        "type": "change",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Estrazione door",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.door",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 1040,
+        "wires": [
+            [
+                "4df41940ab20994f"
+            ]
+        ]
+    },
+    {
+        "id": "173470b038d1c5ae",
+        "type": "ui_text",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "group": "d708318301dd8673",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Stato porta",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1250,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "4df41940ab20994f",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Conversione",
+        "func": "//Conversione da stato della porta a stringa APERTA/CHIUSA da mostrare\nvar door = msg.payload;\n\nvar testo = door != 0 ? \"APERTA\" : \"CHIUSA\";\n\nmsg.payload = testo;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 1040,
+        "wires": [
+            [
+                "173470b038d1c5ae"
+            ]
+        ]
+    },
+    {
+        "id": "6cf9f533e4627e37",
+        "type": "function",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Arrotondamento",
+        "func": "//Arrotondamento ad una cifra decimale dopo la virgola\nmsg.payload = msg.payload.toFixed(1);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 340,
+        "wires": [
+            [
+                "485c5bc0b9cca8c4"
+            ]
+        ]
+    },
+    {
+        "id": "d8fcfcba85c28501",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "Procedura di riavvio",
+        "info": "Tale gruppo contiene la procedura di riavvio:\n\n-**\"RIAVVIO\" button**, se cliccato, invia un messaggio con payload pari a truesul topic MQTT\nSmartGreenhouse/Restart.\n\n-**\"Clear charts\" change**, collegato in flow al button, cambia il payload in uscita al button (true)\nin un array vuoto [] che viene iniettato nei grafici Andamento temperatura, Andamento umidità, \nAndamento luminosità al fine di ripulirli dai valori precedentemente mostrati.\n\n-**\"Compose notification message\" change**, collegato in flow al precedente nodo di change, ne cambia il\npayload con il messaggio che prende in ingresso il nodo Notifica riavvio notification.\nInoltre, cambia anche il topic del messaggio in Riavvio del sistema.\n\n-**\"Notifica riavvio\" notification** prende in ingresso il messaggio contraddistinto da payload e \ntopic cambiati dal nodo precedente e caratterizza la notifica che viene mostrata alla pressione \ndel bottone di riavvio. La notifica mostrata è a insorgenza e riconoscimento, pertanto l'operatore\ndeve cliccare un bottone di conferma OK che garantisce che egli abbia letto la notifica.\n\n-**\"Riavvio audio\" audio out** prende in ingresso il payload che viene mostrato anche come contenuto\ndella notifica e riproduce in audio text-to-speech (TTS)\n\n-**\"Disable manual\" change**, collegato in flow al button, cambia il payload in uscita al button (true)\nnel valore logico false come payload del messaggio che pubblica sui topic MQTT dei nodi MQTT out per \nla gestione manuale\n    -> SmartGreenhouse/Lights/ManualState\n    -> SmartGreenhouse/Irrigation/ManualState\n    -> SmartGreenhouse/Ventilation/ManualState\n",
+        "x": 990,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "9cdf7eb05074fc64",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "g": "45c898bb1350a876",
+        "name": "Andamento",
+        "info": "Tale gruppo contiene gli elementi che mostrano l'andamento del sistema:\n\n-**MQTT in nodes**\n    -> SmartGreenhouse/Environment/Humidity \n       è il topic MQTT su cui viene pubblicata la percentuale di umidità dell'ambiente\n    -> SmartGreenhouse/Environment/Temp\n       è il topic MQTT su cui vengono pubblicate le letture del sensore di temperatura dell'ambiente della serra\n    -> SmartGreenhouse/Ground/Humidity \n       è il topic MQTT su cui viene pubblicata la percentuale di umidità del terreno\n    -> SmartGreenhouse/External/Lum\n       è il topic MQTT su cui vengono pubblicate le letture del sensore di luminosità (LDR) esterna alla serra \n    -> SmartGreenhouse/Irrigation/Cistern\n       è il topic MQTT su cui viene pubblicata la percentuale del livello di riempimento della cisterna di irrigazione\n\n-**Change nodes**\n    -> Estrazione humidity (Environment)\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo humidity \n    -> Estrazione temp\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo temp\n    -> Estrazione humidity (Ground)\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo humidity\n    -> Estrazione light\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo light \n    -> Estrazione cistern_level\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo cistern_level \n\n-**Gauge nodes** \n    -> Umidità ambiente\n       misuratore che mostra la percentuale di umidità ambiente corrente\n    -> Temperatura ambiente\n       misuratore che mostra la temperatura ambiente corrente in °C\n    -> Umidità terreno\n       misuratore che mostra la percentuale di umidità del terreno corrente\n    -> Riempimento cisterna\n       misuratore che mostra la percentuale del livello di riempimento della cisterna d'irrigazione\n\n-**Chart nodes**\n    -> Andamento temperatura\n       grafico a linea che mostra l'andamento della temperatura ambiente \n    -> Andamento umidità\n       grafico a linea che mostra l'andamento dell'umidità del terreno\n    -> Andamento luminosità\n       grafico a linea che mostra l'andamento della luminosità esterna\n\n-**Function nodes**\n    -> Arrotondamento\n       funzione di adattamento dei valori in ingresso per una visualizzazione leggibile nella dashboard\n\n-**\"Livello critico\" switch** verifica che il payload del messaggio che riceve in ingresso (cistern_level)\nsia minore o uguale a 10\n\n-**\"Compose notification message\" change**, collegato in flow al precedente nodo di switch, ne cambia il\npayload con il messaggio che prenderà in ingresso il nodo Notifica cisterna notification.\nInoltre, cambia anche il topic del messaggio in Livello critico riempimento cisterna.\n\n-**\"Notifica cisterna\" notification** prende in ingresso il messaggio contraddistinto da payload e \ntopic cambiati dal nodo precedente e caratterizza la notifica che viene mostrata al verificarsi della condizione che\nabilita il Livello critico switch. La notifica mostrata ha come intestazione il topic ricevuto e come contenuto il payload\nricevuto. Inoltre, essa è a insorgenza e riconoscimento, pertanto l'operatore deve cliccare un bottone di conferma OK che\ngarantisce che egli abbia letto la notifica.\n\n-**\"Stile\" template** consente di assegnare il colore azzurro all'animazione ad onda del Riempimento cisterna gauge",
+        "x": 1290,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "f6499eefb53b6f47",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "g": "2368a8aa1456c4e2",
+        "name": "Stato",
+        "info": "Tale gruppo contiene gli elementi che mostrano lo stato di luci, pompa, ventola e porta della serra:\n\n-**MQTT in nodes**\nSi distinguono i topic per il controllo automatico da quello manuale per effettuare due gestioni separate,\nquando è attiva una modalità di controllo viene disattivata l'altra\n    -> SmartGreenhouse/Lights/LED \n       è il topic MQTT su cui viene pubblicata l'intensità luminosa che assumono i LED della serra\n    -> SmartGreenhouse/Lights/ManualLED \n       è il topic MQTT su cui viene pubblicata l'intensità luminosa che devono assumere i LED in controllo manuale\n    -> SmartGreenhouse/Irrigation/Pump\n       è il topic MQTT su cui viene pubblicato lo stato di accensione della pompa d'irrigazione\n    -> SmartGreenhouse/Irrigation/ManualPump\n       è il topic MQTT su cui viene pubblicato lo stato di accensione della pompa in controllo manuale\n    -> SmartGreenhouse/Ventilation/Fan\n       è il topic MQTT su cui viene pubblicato lo stato di accensione della ventola di areazione\n    -> SmartGreenhouse/Ventilation/ManualFan\n       è il topic MQTT su cui viene pubblicato lo stato di accensione della ventola di areazione in controllo manuale\n    -> SmartGreenhouse/DoorState\n       è il topic MQTT su cui viene pubblicato lo stato di apertura della porta\n\n-**Change nodes**\nNodi che provvedono ad estrarre il campo d'interesse dal payload del messaggio che ricevono dai rispettivi nodi MQTT in.\nL'estrazione è necessaria solo per i topic di controllo automatico, sui topic per il controllo manuale viene pubblicato\ndirettamente il dato grezzo.\n    -> Estrazione light \n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo light \n    -> Estrazione pump\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo pump\n    -> Estrazione fan\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo fan\n    -> Estrazione door\n       nodo di change che cambia il payload del messaggio, in formato JSON, estraendone il campo door \n\n\n-**Function nodes**\n    -> Conversione\n       funzione che verifica lo stato in funzione dei valori che riceve: in base al fatto che il valore\n       ricevuto sia diverso o uguale a zero, setta opportunamente il payload per la visualizzazione nella dashboard\n       (\"ON\"/\"OFF\", \"APERTA\"/\"CHIUSA\")\n\n-**setColor switch** seleziona un flow da seguire in funzione del valore che riceve (ON oppure OFF) al fine di \nincanalare il flow verso il settaggio del colore del testo mostrato in dashboard\n\n-**\"Verde\" change** setta il colore del messaggio a verde (avviene nel caso in cui il messaggio ricevuto sia \"ON\")\n-**\"Rosso\" change** setta il colore del messaggio a rosso (avviene nel caso in cui il messaggio ricevuto sia \"OFF\")\n\n-**Text nodes**\n    -> Stato pompa\n       nodo di testo che mostra il messaggio ricevuto con il colore settato per lo stato della pompa\n    -> Stato ventola\n       nodo di testo che mostra il messaggio ricevuto con il colore settato per lo stato della ventola\n    -> Stato porta\n       nodo di testo che mostra il messaggio ricevuto per lo stato della porta\n\n-**\"Stato luci\" led node** è un nodo che riceve true se le luci sono accese oppure false se le luci sono spente.\nEsso mostra nella dashboard un led che si accende/spegne opportunamente. Per utilizzare questo componente\nbisogna installare il modulo **node-red-contrib-ui-led** in palette",
+        "x": 1270,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "657d6e19c9d0e5bb",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "name": "Autenticazione",
+        "info": "Per attivare l'autenticazione HTTP all'ingresso in dashboard, è necessario aprire il file\n**settings.js** presente nella cartella nodered_start\\data e uncommentare il commento\n//httpNodeAuth: {user:\"user\",pass:\"\"}\n\n**user** indica il nome utente da indicare al momento del login\n**pass** indica la versione con hash della password\n\nPer generare la versione hash della password bisogna eseguire nel terminale il comando:\n**node-red admin hash-pw**\nDunque, verrà richiesto di inserire la password e verrà fornita la versione hash da incollare\nnel campo pass.\nPer maggiori informazioni, fare riferimento alla documentazione Node-RED:\nhttps://nodered.org/docs/user-guide/runtime/securing-node-red#generating-the-password-hash\n\n\n\n",
+        "x": 220,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "5ef6641376ca7d83",
+        "type": "remote-access",
+        "z": "6c260087634d3168",
+        "g": "0bcff986aff194d7",
+        "confignode": "16c59465567046f0",
+        "name": "Accesso remoto da cellulare",
+        "verbose": 0,
+        "x": 1520,
+        "y": 760,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "179a44cde9e78c17",
+        "type": "ui_audio",
+        "z": "6c260087634d3168",
+        "g": "85dbd71cc07ec2c0",
+        "name": "Audio riavvio",
+        "group": "4e8c1fc8206f091f",
+        "voice": "Microsoft Cosimo - Italian (Italy)",
+        "always": "",
+        "x": 1010,
+        "y": 1300,
+        "wires": []
+    },
+    {
+        "id": "3bdfcfd0d3da49b7",
+        "type": "remote-notification",
+        "z": "6c260087634d3168",
+        "g": "0bcff986aff194d7",
+        "confignode": "16c59465567046f0",
+        "name": "Notifica su cellulare",
+        "notificationTitle": "ATTENZIONE! Livello critico cisterna",
+        "notificationTitleType": "str",
+        "notificationBody": "La cisterna di irrigazione è quasi vuota",
+        "notificationBodyType": "str",
+        "notificationSound": "dingdingding",
+        "notificationSoundComputed": "payload.sound",
+        "notificationSoundComputedType": "msg",
+        "output": 1,
+        "x": 1530,
+        "y": 820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "037f70232e7f660c",
+        "type": "inject",
+        "z": "6c260087634d3168",
+        "name": "Prova livello critico",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "3",
+        "payloadType": "num",
+        "x": 590,
+        "y": 660,
+        "wires": [
+            [
+                "12e4f3e65e6ca8c5"
+            ]
+        ]
+    },
+    {
+        "id": "70ae4b3be7bd94b5",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "g": "0bcff986aff194d7",
+        "name": "Accesso remoto",
+        "info": "**Requisiti per l'accesso remoto da cellulare**\nSul cellulare, è necessario installare l'app Remote-RED dallo store.\nIn Node-RED, è necessario installare il **modulo node-red-contrib-remote** in palette.\n\n-**\"Accesso remoto da cellulare\" remote access node** serve a settare il nodo Config\nche viene associato all'accesso remoto e a cui si possono associare nodi **remote-notification**\ne **remote-question**. Per aggiungere un nuovo dispositivo è sufficiente cliccare \"Connect Remote-RED app\"\nnella schermata del Config node e scannerizzare con l'app da cellulare il QR-code che viene mostrato.\n\n-**\"Notifica su cellulare\" remote notification node** viene attivato quando si raggiunge\nil livello critico della cisterna d'irrigazione. Tale nodo, associato allo stesso Config node \ncreato con il nodo remote access, consente di inviare una notifica push sul dispositivo collegato,\nassegnando titolo, corpo e suono della notifica.\n",
+        "x": 1560,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "3c7a67744ca0d5ce",
+        "type": "comment",
+        "z": "6c260087634d3168",
+        "name": "Moduli aggiuntivi da installare",
+        "info": "**Elementi grafici**\n    ->node-red-contrib-ui-led\n    ->node-red-node-ui-table\n    ->node-red-contrib-boolean-logic-ultimate\n\n**Accesso remoto**\n    ->node-red-contrib-remote\n\n**InfuxDB per memorizzazione dati**\n    ->node-red-contrib-influxdb",
+        "x": 780,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "1d3f202c1afdf70d",
+        "type": "ui_switch",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "label": "Manuale",
+        "tooltip": "Automatico/Manuale",
+        "group": "2e8dacbbfc400c2c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 220,
+        "y": 320,
+        "wires": [
+            [
+                "5395ca3d4af2ba1a",
+                "90c67fbc4ddad397",
+                "cccbe94383a8e763"
+            ]
+        ]
+    },
+    {
+        "id": "24c5bd2308f31798",
+        "type": "ui_slider",
+        "z": "7f8a716c21152891",
+        "name": "Illuminazione",
+        "label": "",
+        "tooltip": "Intensità luminosa",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 1090,
+        "y": 320,
+        "wires": [
+            [
+                "9470250724de711a"
+            ]
+        ]
+    },
+    {
+        "id": "5395ca3d4af2ba1a",
+        "type": "change",
+        "z": "7f8a716c21152891",
+        "name": "Abilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 570,
+        "y": 320,
+        "wires": [
+            [
+                "24c5bd2308f31798",
+                "70505eb66e7736f8",
+                "de34e1b2cef55339",
+                "6eda59df509f82a7",
+                "b6799f5c79148708"
+            ]
+        ]
+    },
+    {
+        "id": "6eda59df509f82a7",
+        "type": "ui_button",
+        "z": "7f8a716c21152891",
+        "g": "cd19b81c57d59fcf",
+        "name": "",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Notte",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#7475B6",
+        "className": "",
+        "icon": "fa-moon-o",
+        "payload": "100",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 790,
+        "y": 220,
+        "wires": [
+            [
+                "24c5bd2308f31798"
+            ]
+        ]
+    },
+    {
+        "id": "70505eb66e7736f8",
+        "type": "ui_button",
+        "z": "7f8a716c21152891",
+        "g": "cd19b81c57d59fcf",
+        "name": "",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Alba",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#F9DC90",
+        "className": "",
+        "icon": "wi-wu-sunny",
+        "payload": "30",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 790,
+        "y": 100,
+        "wires": [
+            [
+                "24c5bd2308f31798"
+            ]
+        ]
+    },
+    {
+        "id": "de34e1b2cef55339",
+        "type": "ui_button",
+        "z": "7f8a716c21152891",
+        "g": "cd19b81c57d59fcf",
+        "name": "",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Tramonto",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#EE5D6C",
+        "className": "",
+        "icon": "wi-wu-hazy",
+        "payload": "70",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 800,
+        "y": 140,
+        "wires": [
+            [
+                "24c5bd2308f31798"
+            ]
+        ]
+    },
+    {
+        "id": "b6799f5c79148708",
+        "type": "ui_button",
+        "z": "7f8a716c21152891",
+        "g": "cd19b81c57d59fcf",
+        "name": "",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Giorno",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#FFB70C",
+        "className": "",
+        "icon": "fa-sun-o",
+        "payload": "0",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 790,
+        "y": 180,
+        "wires": [
+            [
+                "24c5bd2308f31798"
+            ]
+        ]
+    },
+    {
+        "id": "9470250724de711a",
+        "type": "mqtt out",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/ManualLED",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1350,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "c10b334ca129a757",
+        "type": "inject",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 230,
+        "y": 360,
+        "wires": [
+            [
+                "5395ca3d4af2ba1a"
+            ]
+        ]
+    },
+    {
+        "id": "90c67fbc4ddad397",
+        "type": "mqtt out",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 570,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "da29de9b8f62bbe9",
+        "type": "ui_dropdown",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "label": "Soglia ",
+        "tooltip": "Soglia di attivazione illuminazione automatica",
+        "place": "Seleziona luminosità (%)",
+        "group": "6f0b355f81a6694d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "< 10%",
+                "value": 10,
+                "type": "num"
+            },
+            {
+                "label": "< 30%",
+                "value": 30,
+                "type": "num"
+            },
+            {
+                "label": "< 50%",
+                "value": 50,
+                "type": "num"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 850,
+        "y": 500,
+        "wires": [
+            [
+                "c3edb28bfb4e5f4c"
+            ]
+        ]
+    },
+    {
+        "id": "cccbe94383a8e763",
+        "type": "switch",
+        "z": "7f8a716c21152891",
+        "name": "Abilitazione",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 490,
+        "y": 500,
+        "wires": [
+            [
+                "86d5ecdb02a5fb56"
+            ],
+            [
+                "13fc488552d33c03"
+            ]
+        ]
+    },
+    {
+        "id": "86d5ecdb02a5fb56",
+        "type": "change",
+        "z": "7f8a716c21152891",
+        "name": "False  --> True",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 480,
+        "wires": [
+            [
+                "da29de9b8f62bbe9"
+            ]
+        ]
+    },
+    {
+        "id": "13fc488552d33c03",
+        "type": "change",
+        "z": "7f8a716c21152891",
+        "name": "True --> False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 520,
+        "wires": [
+            [
+                "da29de9b8f62bbe9"
+            ]
+        ]
+    },
+    {
+        "id": "c3edb28bfb4e5f4c",
+        "type": "mqtt out",
+        "z": "7f8a716c21152891",
+        "name": "",
+        "topic": "SmartGreenhouse/Lights/Lum",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1070,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "2f6690585d66e25e",
+        "type": "ui_text",
+        "z": "7f8a716c21152891",
+        "g": "93d1712ab51f05a8",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Modalità predefinite",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#05be70",
+        "x": 150,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "dbf31b5e381b0e54",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "g": "93d1712ab51f05a8",
+        "name": "Elementi grafici",
+        "info": "Nodi di testo che non contengono logica al loro interno",
+        "x": 140,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "b3f564aeb1201595",
+        "type": "ui_text",
+        "z": "7f8a716c21152891",
+        "g": "93d1712ab51f05a8",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Modalità personalizzata",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#05be70",
+        "x": 170,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "118096b9041b8663",
+        "type": "ui_text",
+        "z": "7f8a716c21152891",
+        "g": "93d1712ab51f05a8",
+        "group": "e49ec4d7c48e7b2d",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Intensità luminosa",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#111111",
+        "x": 150,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "818129fe9f27c213",
+        "type": "mqtt in",
+        "z": "7f8a716c21152891",
+        "g": "4b598629f1a2fdc2",
+        "name": "",
+        "topic": "SmartGreenhouse/Restart",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 100,
+        "wires": [
+            [
+                "5b5c51ff6eb09e51"
+            ]
+        ]
+    },
+    {
+        "id": "5b5c51ff6eb09e51",
+        "type": "change",
+        "z": "7f8a716c21152891",
+        "g": "4b598629f1a2fdc2",
+        "name": "Disattivazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 220,
+        "y": 180,
+        "wires": [
+            [
+                "1d3f202c1afdf70d"
+            ]
+        ]
+    },
+    {
+        "id": "b54f2e3b07bde103",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "g": "cd19b81c57d59fcf",
+        "name": "Modalità predefinita",
+        "info": "\n**\"Alba\" button**\nBottone con payload 30 che pilota \"Illuminazione\" slider\n\n**\"Tramonto\" button**\nBottone con payload 70 che pilota \"Illuminazione\" slider\n\n**\"Giorno\" button**\nBottone con payload 0 che pilota \"Illuminazione\" slider\n\n**\"Notte\" button**\nBottone con payload 100 che pilota \"Illuminazione\" slider",
+        "x": 890,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "f6d7a41251c708f5",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "g": "4b598629f1a2fdc2",
+        "name": "Riavvio",
+        "info": "**Riavvio**\nIl riavvio, segnalato tramite pubblicazione del valore true sul topic\nSmartgreenhouse/Restart porta a false lo switch della modalità manuale.\n\n**\"Disattivazione\" change** commuta il valore che gli arriva dal topic (true) a false\nal fine di disattivare lo switch della modalità manuale qualora questo fosse \nattivo.\n",
+        "x": 230,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "dd71c87be2dc3e76",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "name": "Disabilitazione iniziale",
+        "info": "**Inject false**\nDopo 0,1 sec una sola volta viene iniettato il valore false.\nTale nodo serve a far partire disabilitati i bottoni e lo slider\nper il settaggio dell'illuminazione nell'ambito del controllo manuale.\nQuesti vengono poi abilitati non appena viene attivato lo switch.",
+        "x": 180,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "9b19d2b7e4f86380",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "name": "Abilitazione",
+        "info": "**\"Manuale\" switch**\nSwitch per la scelta della modalità di controllo manuale. I valori logici che produce\nvengono pubblicati sul topic MQTT SmartGreenhouse/Lights/ManualState\n\n**\"Abilitazione\" change**\nTale nodo serve ad abilitare/disabilitare l'\"Illuminazione\" slider e i bottoni\ndella modalità predefinita. Viene pilotato dai valori logici che gli arrivano dallo \nswitch della modalità manuale; infatti, quando lo switch è attivo significa che la modalità\nè manuale e quindi devono abilitarsi i nodi sopra citati. Viceversa, essi devono essere disabilitati.",
+        "x": 550,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "d3dba6ae986ceb4f",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "name": "Illuminazione",
+        "info": "**\"Illuminazione\" slider** è lo slider per il settaggio della luminosità\ndei LED in modalità manuale.\nTale valore viene pubblicato sul topic SmartGreenhouse/Lights/ManualLED",
+        "x": 1250,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "bab21f53e339f577",
+        "type": "comment",
+        "z": "7f8a716c21152891",
+        "name": "Soglia",
+        "info": "**\"Soglia\" dropdown**\nDropdown per la scelta della percentuale di soglia di luminosità esterna\nsotto la quale deve attivarsi automaticamente l'illuminazione.\nTale scelta viene pubblicata sul topic MQTT SmartGreenhouse/Lights/Lum.\n\n**\"Abilitazione\" switch**\nTale nodo serve ad abilitare/disabilitare il \"Soglia\" dropdown\ndella modalità automatica. Viene pilotato dai valori logici che \ngli arrivano dallo switch della modalità manuale e, in funzione del\nvalore logico che ottiene (true/false), lo commuta al valore logico opposto \nin modo tale che se la modalità manuale è attiva, il dropdown per la scelta \ndella soglia venga disabilitato e viceversa.\n\n\n",
+        "x": 630,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "dc4cbda536684311",
+        "type": "ui_switch",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "label": "Manuale",
+        "tooltip": "Automatico/Manuale",
+        "group": "6cbb86c6f6977035",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 220,
+        "y": 280,
+        "wires": [
+            [
+                "c1086f92cbe206bf",
+                "2f563fa18714f36d",
+                "8ff3bb1f239dc8ad"
+            ]
+        ]
+    },
+    {
+        "id": "c1086f92cbe206bf",
+        "type": "change",
+        "z": "03520b3c156b238e",
+        "name": "Abilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 280,
+        "wires": [
+            [
+                "6d985b3ddc0b67d6"
+            ]
+        ]
+    },
+    {
+        "id": "6d985b3ddc0b67d6",
+        "type": "ui_switch",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "label": "Pompa",
+        "tooltip": "",
+        "group": "7a5c163165b56cce",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "enabled",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 800,
+        "y": 280,
+        "wires": [
+            [
+                "6291272a341bedf7"
+            ]
+        ]
+    },
+    {
+        "id": "6291272a341bedf7",
+        "type": "mqtt out",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/ManualPump",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1140,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "2e419a76f0d8cf84",
+        "type": "inject",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 230,
+        "y": 340,
+        "wires": [
+            [
+                "c1086f92cbe206bf"
+            ]
+        ]
+    },
+    {
+        "id": "2f563fa18714f36d",
+        "type": "mqtt out",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 640,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2c4b28fefa4b6b09",
+        "type": "ui_dropdown",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "label": "Soglia ",
+        "tooltip": "Soglia di attivazione irrigazione automatica",
+        "place": "Seleziona umidità (%)",
+        "group": "e2a478fa446dd685",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "< 10%",
+                "value": 10,
+                "type": "num"
+            },
+            {
+                "label": "< 20%",
+                "value": 20,
+                "type": "num"
+            },
+            {
+                "label": "< 30%",
+                "value": 30,
+                "type": "num"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 850,
+        "y": 420,
+        "wires": [
+            [
+                "a27fd2d84c960647"
+            ]
+        ]
+    },
+    {
+        "id": "a27fd2d84c960647",
+        "type": "mqtt out",
+        "z": "03520b3c156b238e",
+        "name": "",
+        "topic": "SmartGreenhouse/Irrigation/Humidity",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1130,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "8ff3bb1f239dc8ad",
+        "type": "switch",
+        "z": "03520b3c156b238e",
+        "name": "Abilitazione",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 470,
+        "y": 420,
+        "wires": [
+            [
+                "676e0e863510b46c"
+            ],
+            [
+                "2d4698099f026cf4"
+            ]
+        ]
+    },
+    {
+        "id": "676e0e863510b46c",
+        "type": "change",
+        "z": "03520b3c156b238e",
+        "name": "False --> True",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 400,
+        "wires": [
+            [
+                "2c4b28fefa4b6b09"
+            ]
+        ]
+    },
+    {
+        "id": "2d4698099f026cf4",
+        "type": "change",
+        "z": "03520b3c156b238e",
+        "name": "True --> False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 440,
+        "wires": [
+            [
+                "2c4b28fefa4b6b09"
+            ]
+        ]
+    },
+    {
+        "id": "9b492d7f858986cd",
+        "type": "mqtt in",
+        "z": "03520b3c156b238e",
+        "g": "9b59e1636c4a9d5f",
+        "name": "",
+        "topic": "SmartGreenhouse/Restart",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 100,
+        "wires": [
+            [
+                "ae0d142bd103608a"
+            ]
+        ]
+    },
+    {
+        "id": "ae0d142bd103608a",
+        "type": "change",
+        "z": "03520b3c156b238e",
+        "g": "9b59e1636c4a9d5f",
+        "name": "Disattivazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 200,
+        "y": 160,
+        "wires": [
+            [
+                "dc4cbda536684311"
+            ]
+        ]
+    },
+    {
+        "id": "251b599f5128e2b7",
+        "type": "comment",
+        "z": "03520b3c156b238e",
+        "g": "9b59e1636c4a9d5f",
+        "name": "Riavvio",
+        "info": "**Riavvio**\nIl riavvio, segnalato tramite pubblicazione del valore true sul topic\nSmartgreenhouse/Restart porta a false lo switch della modalità manuale.\n\n**\"Disattivazione\" change** commuta il valore che gli arriva dal topic (true) a false\nal fine di disattivare lo switch della modalità manuale qualora questo fosse \nattivo.\n",
+        "x": 250,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "7fa3fa4ee4fe91cb",
+        "type": "comment",
+        "z": "03520b3c156b238e",
+        "name": "Abilitazione",
+        "info": "**\"Manuale\" switch**\nSwitch per la scelta della modalità di controllo manuale. I valori logici che produce\nvengono pubblicati sul topic MQTT SmartGreenhouse/Irrigation/ManualState\n\n**\"Abilitazione\" change**\nTale nodo serve ad abilitare/disabilitare il \"Pompa\" switch. Viene pilotato dai valori logici che gli arrivano dallo \nswitch della modalità manuale; infatti, quando lo switch è attivo significa che la modalità\nè manuale e quindi deve abilitarsi il \"Pompa\" switch. Viceversa, esso deve essere disabilitato.\nInoltre, questo nodo disattiva lo switch settando il payload a false in modo tale che, ogni qual volta viene abilitato\no disabilitato dallo switch della modalità manuale, esso viene portato a false.",
+        "x": 530,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "b89ff90f50f6f757",
+        "type": "comment",
+        "z": "03520b3c156b238e",
+        "name": "Irrigazione",
+        "info": "**\"Pompa\" switch** è lo switch per l'accensione/spegnimento della pompa in \nmodalità manuale. Restituisce pertanto i valori logici true/false che vengono\npubblicati sul topic SmartGreenhouse/Irrigation/ManualPump",
+        "x": 940,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "2833e30264b34314",
+        "type": "comment",
+        "z": "03520b3c156b238e",
+        "name": "Disabilitazione iniziale",
+        "info": "**Inject false**\nDopo 0,1 sec una sola volta viene iniettato il valore false.\nTale nodo serve a far partire disabilitato il \"Pompa\" switch\nper il settaggio dell'irrigazione nell'ambito del controllo manuale.\nQuesto viene poi abilitato non appena viene attivato lo switch del controllo\nmanuale.",
+        "x": 180,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "f0c3c17e29436cc2",
+        "type": "comment",
+        "z": "03520b3c156b238e",
+        "name": "Soglia",
+        "info": "**\"Soglia\" dropdown**\nDropdown per la scelta della percentuale di soglia di umidità del terreno sotto la quale\ndeve attivarsi automaticamente l'irrigazione.\nTale scelta viene pubblicata sul topic MQTT SmartGreenhouse/Irrigation/Humidity.\n\n**\"Abilitazione\" switch**\nTale nodo serve ad abilitare/disabilitare il \"Soglia\" dropdown\ndella modalità automatica. Viene pilotato dai valori logici che \ngli arrivano dallo switch della modalità manuale e, in funzione del\nvalore logico che ottiene (true/false), lo commuta al valore logico opposto \nin modo tale che se la modalità manuale è attiva, il dropdown per la scelta \ndella soglia venga disabilitato e viceversa.\n\n\n",
+        "x": 630,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "84f1336166ad6e2e",
+        "type": "ui_switch",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "label": "Manuale",
+        "tooltip": "Automatico/Manuale",
+        "group": "d1bc0ee9b9a2665f",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 280,
+        "y": 260,
+        "wires": [
+            [
+                "bb7419784b7af077",
+                "06dc4b28853754d3",
+                "6726e4c2326c013d"
+            ]
+        ]
+    },
+    {
+        "id": "fe6555b6305449ec",
+        "type": "ui_gauge",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "group": "979d0e2187393c2e",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "donut",
+        "title": "Velocità ventola",
+        "label": "giri/minuto",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#d5edff",
+            "#a5d4ff",
+            "#6daaee"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1140,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "bb7419784b7af077",
+        "type": "change",
+        "z": "4554b45e05cda258",
+        "name": "Abilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 320,
+        "wires": [
+            [
+                "41c5917a2f8cf372"
+            ]
+        ]
+    },
+    {
+        "id": "1b9a31bdeac931f7",
+        "type": "mqtt out",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/ManualFan",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1040,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "757ba3800de93a69",
+        "type": "inject",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 290,
+        "y": 320,
+        "wires": [
+            [
+                "bb7419784b7af077"
+            ]
+        ]
+    },
+    {
+        "id": "06dc4b28853754d3",
+        "type": "mqtt out",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/ManualState",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 610,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "df41d1e49c56733c",
+        "type": "mqtt in",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/Fan",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 660,
+        "y": 100,
+        "wires": [
+            [
+                "44b793850af094f2"
+            ]
+        ]
+    },
+    {
+        "id": "148b9e5ba4e3dcdb",
+        "type": "ui_dropdown",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "label": "Soglia ",
+        "tooltip": "Soglia di attivazione ventilazione automatica",
+        "place": "Seleziona temperatura (°C)",
+        "group": "32ccd5a6aeb6d9dd",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "> 20°C",
+                "value": 20,
+                "type": "num"
+            },
+            {
+                "label": "> 30°C",
+                "value": 30,
+                "type": "num"
+            },
+            {
+                "label": "> 40°C",
+                "value": 40,
+                "type": "num"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 850,
+        "y": 480,
+        "wires": [
+            [
+                "d608e61c1323d378"
+            ]
+        ]
+    },
+    {
+        "id": "d608e61c1323d378",
+        "type": "mqtt out",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "topic": "SmartGreenhouse/Ventilation/Temp",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "02b3dec6aed9d9b7",
+        "x": 1100,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "6726e4c2326c013d",
+        "type": "switch",
+        "z": "4554b45e05cda258",
+        "name": "Abilitazione",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 480,
+        "wires": [
+            [
+                "0b466f3aba77b768"
+            ],
+            [
+                "242e2b4b8710066f"
+            ]
+        ]
+    },
+    {
+        "id": "0b466f3aba77b768",
+        "type": "change",
+        "z": "4554b45e05cda258",
+        "name": "False --> True",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 680,
+        "y": 460,
+        "wires": [
+            [
+                "148b9e5ba4e3dcdb"
+            ]
+        ]
+    },
+    {
+        "id": "242e2b4b8710066f",
+        "type": "change",
+        "z": "4554b45e05cda258",
+        "name": "True --> False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 680,
+        "y": 500,
+        "wires": [
+            [
+                "148b9e5ba4e3dcdb"
+            ]
+        ]
+    },
+    {
+        "id": "44b793850af094f2",
+        "type": "change",
+        "z": "4554b45e05cda258",
+        "name": "Estrazione fan",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.fan",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 720,
+        "y": 160,
+        "wires": [
+            [
+                "2cfdb95e7a4b099b"
+            ]
+        ]
+    },
+    {
+        "id": "41c5917a2f8cf372",
+        "type": "ui_switch",
+        "z": "4554b45e05cda258",
+        "name": "",
+        "label": "Ventola",
+        "tooltip": "",
+        "group": "979d0e2187393c2e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 720,
+        "y": 320,
+        "wires": [
+            [
+                "1b9a31bdeac931f7",
+                "2cfdb95e7a4b099b"
+            ]
+        ]
+    },
+    {
+        "id": "2cfdb95e7a4b099b",
+        "type": "function",
+        "z": "4554b45e05cda258",
+        "name": "Conversione",
+        "func": "var stato = msg.payload;\n\nvar velocita = stato == true ? 5500 : 0;\n\nmsg.payload = velocita;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 320,
+        "wires": [
+            [
+                "fe6555b6305449ec"
+            ]
+        ]
+    },
+    {
+        "id": "f67c0f7b268792d3",
+        "type": "mqtt in",
+        "z": "4554b45e05cda258",
+        "g": "f1e0f0486f24b026",
+        "name": "",
+        "topic": "SmartGreenhouse/Restart",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 230,
+        "y": 100,
+        "wires": [
+            [
+                "0567d8a0bee0c3de"
+            ]
+        ]
+    },
+    {
+        "id": "0567d8a0bee0c3de",
+        "type": "change",
+        "z": "4554b45e05cda258",
+        "g": "f1e0f0486f24b026",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 260,
+        "y": 160,
+        "wires": [
+            [
+                "84f1336166ad6e2e"
+            ]
+        ]
+    },
+    {
+        "id": "7f8082209b0f4c4a",
+        "type": "comment",
+        "z": "4554b45e05cda258",
+        "g": "f1e0f0486f24b026",
+        "name": "Riavvio",
+        "info": "**Riavvio**\nIl riavvio, segnalato tramite pubblicazione del valore true sul topic\nSmartgreenhouse/Restart porta a false lo switch della modalità manuale.\n\n**\"Disattivazione\" change** commuta il valore che gli arriva dal topic (true) a false\nal fine di disattivare lo switch della modalità manuale qualora questo fosse \nattivo.\n",
+        "x": 290,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "56e7765a4728c054",
+        "type": "comment",
+        "z": "4554b45e05cda258",
+        "name": "Disabilitazione iniziale",
+        "info": "**Inject false**\nDopo 0,1 sec una sola volta viene iniettato il valore false.\nTale nodo serve a far partire disabilitato il \"Ventola\" switch\nper il settaggio dell'irrigazione nell'ambito del controllo manuale.\nQuesto viene poi abilitato non appena viene attivato lo switch del controllo\nmanuale.",
+        "x": 240,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "aafc65ae1201e8bb",
+        "type": "comment",
+        "z": "4554b45e05cda258",
+        "name": "Soglia",
+        "info": "**\"Soglia\" dropdown**\nDropdown per la scelta della percentuale di soglia di temperatura ambiente sopra la quale\ndeve attivarsi automaticamente l'areazione.\nTale scelta viene pubblicata sul topic MQTT SmartGreenhouse/Ventilation/Temp.\n\n**\"Abilitazione\" switch**\nTale nodo serve ad abilitare/disabilitare il \"Soglia\" dropdown\ndella modalità automatica. Viene pilotato dai valori logici che \ngli arrivano dallo switch della modalità manuale e, in funzione del\nvalore logico che ottiene (true/false), lo commuta al valore logico opposto \nin modo tale che se la modalità manuale è attiva, il dropdown per la scelta \ndella soglia venga disabilitato e viceversa.\n\n\n",
+        "x": 670,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "9bc5dd712a812e2b",
+        "type": "comment",
+        "z": "4554b45e05cda258",
+        "name": "Abilitazione",
+        "info": "**\"Manuale\" switch**\nSwitch per la scelta della modalità di controllo manuale. I valori logici che produce\nvengono pubblicati sul topic MQTT SmartGreenhouse/Ventilation/ManualState\n\n**\"Abilitazione\" change**\nTale nodo serve ad abilitare/disabilitare il \"Ventola\" switch. Viene pilotato dai valori logici che gli arrivano dallo \nswitch della modalità manuale; infatti, quando lo switch è attivo significa che la modalità\nè manuale e quindi deve abilitarsi il \"Ventola\" switch. Viceversa, esso deve essere disabilitato.\nInoltre, questo nodo disattiva lo switch settando il payload a false in modo tale che, ogni qual volta viene abilitato\no disabilitato dallo switch della modalità manuale, esso viene portato a false.",
+        "x": 550,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "bd7d6b29115b84f3",
+        "type": "comment",
+        "z": "4554b45e05cda258",
+        "name": "Aerazione",
+        "info": "**\"Ventola\" switch** è lo switch per l'accensione/spegnimento della ventola in \nmodalità manuale. Restituisce pertanto i valori logici true/false che vengono\npubblicati sul topic SmartGreenhouse/Ventilation/ManualFan.\n\n**\"Conversione\" function\"** verifica lo stato che gli viene fornito in ingresso\ndal \"Ventola\" switch e converte questa informazione nel valore di velocità della \nventola. Se la ventola è spenta, restituisce 0 come velocità in giri/minuto.\nSe la ventola è accesa, restituisce 5500 come velocità in giri/minuto.\n\n**\"Velocità ventola\" gauge** è il misuratore che mostra la velocità della ventola.\nViene pilotato dal nodo \"Conversione\" function che prende in ingresso sia il valore \nlogico fornito dal \"Ventola\" switch della modalità manuale che il valore logico fornito\ndal topic MQTT SmartGreenhouse/Ventilation/Fan della modalità automatica.\nIn questo modo, esso mostra la velocità della ventola sia se è attivo il controllo manuale\nsia se è disattivo (e quindi il controllo è automatico).\nPer il valore logico proveniente dal topic MQTT per la modalità automatica è necessario\nun nodo \"Estrazione\" change che estrae dal payload del messaggio in JSON solo il campo \nrelativo allo stato della ventola (msg.payload.fan).",
+        "x": 1060,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "82d5614557b94e9b",
+        "type": "influxdb out",
+        "z": "9015b117e106c4b3",
+        "g": "71df34bdac1f2a7e",
+        "influxdb": "535469324e6f3e3a",
+        "name": "",
+        "measurement": "Temperature",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "SmartGreenhouse",
+        "bucket": "Environment",
+        "x": 650,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "130676496113b955",
+        "type": "mqtt in",
+        "z": "9015b117e106c4b3",
+        "g": "71df34bdac1f2a7e",
+        "name": "",
+        "topic": "SmartGreenhouse/Environment/Temp",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "02b3dec6aed9d9b7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 230,
+        "y": 160,
+        "wires": [
+            [
+                "82d5614557b94e9b"
+            ]
+        ]
+    },
+    {
+        "id": "3eb58436c0fd4dfc",
+        "type": "comment",
+        "z": "9015b117e106c4b3",
+        "g": "71df34bdac1f2a7e",
+        "name": "Scrittura nel DB",
+        "info": "**InfluxDB**\nInfluxDB è un sistema open-source di database orientato al tempo, progettato principalmente per la \ngestione e l'analisi dei dati di serie temporali. È un database NoSQL, ottimizzato per operazioni di\nscrittura ad alta velocità e query che riguardano intervalli di tempo specifici, il che lo rende ideale \nper applicazioni come il monitoraggio delle prestazioni, la raccolta di dati di sensori, e l'analisi in tempo reale,\ncome i dati generati dai sensori IoT. Nel nostro caso si è usato InfluxDB Cloud.\n\n**Scrittura nel DB**\nI valori di temperatura ambiente pubblicati sul topic MQTT SmartGreenhouse/Environment/Temp relativi alle letture del \nsensore di temperatura vengono inseriti in un database InfluxDB.\nIl concetto di database prende il nome di **Organization** e nel nostro caso è stato denominato SmartGreenhouse.\n\n**Struttura**\nI dati vengono memorizzati in **bucket**, contenitori logici simili al concetto di tabella dei database relazionali. \nNel nostro caso, i dati vengono memorizzati in un bucket denominato \"Environment\". Al suo interno, il bucket può avere \ndiverse **Measurement** che possono essere immaginate come dei sottocontenitori che contengono gli effettivi campi (**Fields**).\nNel nostro caso, nel bucket \"Environment\" memorizziamo le letture del sensore di temperatura nel Measurement \"Temperature\" e \nnel Field \"temp\".\n\n**Persistenza dei dati**\nIn fase di creazione del bucket, si sceglie per quanto tempo vengono mantenuti memorizzati i dati (**Retention**). Nel nostro caso, \nper il monitoraggio che effettuiamo scegliamo il tempo massimo consentito, pari a 30 giorni.\nIn InfluxDB è possibile scrivere query per verificare in forma tabellare e in forma di grafico i dati presenti.\n",
+        "x": 160,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "5cb155bba4a4bfdc",
+        "type": "ui_table",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "group": "acf47c9b3cb4aa24",
+        "name": "Tabella letture",
+        "order": 1,
+        "width": 13,
+        "height": 10,
+        "columns": [
+            {
+                "field": "_time",
+                "title": "Data e ora",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "_value",
+                "title": "Lettura (°C)",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 1160,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "c22273bb68f30ec6",
+        "type": "ui_dropdown",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "",
+        "label": "Intervallo temporale",
+        "tooltip": "",
+        "place": "Seleziona range",
+        "group": "c229946e56b65abb",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "ultimi 10 minuti",
+                "value": 10,
+                "type": "num"
+            },
+            {
+                "label": "ultima ora",
+                "value": 60,
+                "type": "num"
+            },
+            {
+                "label": "ultime 6 ore",
+                "value": 360,
+                "type": "num"
+            },
+            {
+                "label": "ultimo giorno",
+                "value": 1440,
+                "type": "num"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 170,
+        "y": 380,
+        "wires": [
+            [
+                "e72195b9af7c7ef3",
+                "e10b0ce3bda275d1",
+                "dd24d86311d3a51c",
+                "6a40e9b57740d1b3"
+            ]
+        ]
+    },
+    {
+        "id": "5bd08717b19a2e74",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "timeConvert",
+        "func": "// Funzione per convertire il timestamp in una data leggibile\nfunction convertTimestampToReadable(payload) {\n    if (Array.isArray(payload)) {\n        // Se il payload è un array di risultati\n        return payload.map(function(result) {\n            result._time = new Date(result._time).toLocaleString();\n            return result;\n        });\n    } else {\n        // Se il payload è un singolo risultato\n        payload._time = new Date(payload._time).toLocaleString();\n        return payload;\n    }\n}\n\n// Elabora il payload\nif (Array.isArray(msg.payload)) {\n    // Se il payload è un array di risultati\n    msg.payload = msg.payload.map(convertTimestampToReadable);\n} else {\n    // Se il payload è un singolo risultato\n    msg.payload = convertTimestampToReadable(msg.payload);\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 460,
+        "wires": [
+            [
+                "5cb155bba4a4bfdc",
+                "d9d2711dda67c68e"
+            ]
+        ]
+    },
+    {
+        "id": "334e05b4d5270baf",
+        "type": "comment",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Lettura dal DB",
+        "info": "**\"Intervallo temporale\" dropdown** consente di scegliere un intervallo temporale\nper il quale visualizzare il numero di letture di sensore effettuate (**\"Numero letture effettuate\" Text**), \nla temperatura media per il periodo (**\"Temperatura media per periodo\" gauge**), la temperatura massima registrata \n(**\"Temperatura massima registrata\" gauge**)e l'elenco di letture.\n\n**\"Seleziona data\" date picker** consente di scegliere una data per cui visualizzare le informazioni\nsopra elencate. Se viene selezionata una data, il nodo **\"Cancella range\" change** ripulisce la \nselezione del **\"Intervallo temporale\" dropdown** cambiando il payload ad un arrray vuoto [].\n\n**Query**\nPer estrarre i dati di interesse scritti nel database, si scrivono le query.\n\nLe query sono scritte in **Flux**, il linguaggio di interrogazione utilizzato \ncon InfluxDB.\nSiccome devono tenere conto dell'intervallo di tempo selezionato (o della data selezionata),\nle query vengono composte in dei nodi function che recepiscono il payload ricevuto e lo incapsulano\nnella query che forniscono al nodo InfluxDB in all'interno di msg.query. \nInfatti, se la query non è scritta nel nodo InfluxDB, questo si aspetta di trovare l'interrogazione\nformulata in msg.query.\n\nIl risultato della query è in formato JSON e, pertanto, con dei nodi function si estraggono i \ncampi di interesse per la rispettiva query, approssimando dove serve.\nPer la query che consente di ottenere l'elenco di letture, non si estrae un campo specifico ma si usa \nun nodo **\"timeConvert\" function** che consente di convertire la data restituita (formato timestamp) in \nuna data leggibile.\n\n**\"Tabella letture\" table**\nPer utilizzare questo componente bisogna installare il modulo **node-red-node-ui-table** in palette.\nLa tabella prende in ingresso l'array di elementi risultato della query in formato JSON.\nNel nodo si definiscono le colonne da mostrare che sono \"Data e ora\" (in cui si mostra il campo \"_time\"\ndell'elemento in JSON dell'array di risultati della query) e \"Lettura (°C)\" (in cui si mostra il campo \n\"_value\" dell'elemento in JSON dell'array di risultati della query).\n\n**\"Formattazione chart\" function** serve a mostrare i dati delle letture ricavati dalla query in una\nformattazione compatibile con la visualizzazione nel grafico a linea.\n\n**\"Andamento temperature\" chart** è un grafico a linea che mostra l'andamento delle letture di temperatura\ndell'ambiente della serra nel periodo selezionato.\nEsso riceve in ingresso i dati formattati per la visualizzazione nel grafico dal nodo **\"Formattazione chart\" function**.\nPer essere mostrato, è necessario cliccare il **\"Mostra andamento\" button**.\n\n\n\n\n\n",
+        "x": 150,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "2285bd3cc0948622",
+        "type": "ui_text",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "group": "c229946e56b65abb",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Numero di letture effettuate:",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1100,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "8fe0cd86dec22a83",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "CountExtraction",
+        "func": "//Funzione per l'estrazione del valore\nvar extractValue = function(results) {\n    // Estrae il campo _value dal primo oggetto nell'array\n    if (Array.isArray(results) && results.length > 0) {\n        return results[0]._value;\n    } else {\n        return 0;\n    }\n};\n\n// Estrae il valore del campo _value utilizzando la funzione\nvar value = extractValue(msg.payload);\n\n// Passa il valore estratto al nodo successivo\nreturn {payload: value};\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 280,
+        "wires": [
+            [
+                "2285bd3cc0948622"
+            ]
+        ]
+    },
+    {
+        "id": "47cafebb35aea837",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "AvgExtraction",
+        "func": "// Funzione per l'estrazione del valore\nvar extractAvg = function(results) {\n    // Estrai il campo _value dal primo oggetto nell'array\n    if (Array.isArray(results) && results.length > 0) {\n        return results[0]._value.toFixed(2);  //toFixed(2) approssima a 2 cifre decimali dopo la virgola\n    } else {\n        return 0;\n    }\n};\n\n// Estrae il valore del campo _value utilizzando la funzione\nvar value = extractAvg(msg.payload);\n\n// Passa il valore estratto al nodo successivo\nreturn {payload: value};\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 340,
+        "wires": [
+            [
+                "158e7d4088fc4467"
+            ]
+        ]
+    },
+    {
+        "id": "f472b7bb0fb590c2",
+        "type": "switch",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "Mostra/Nascondi",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 770,
+        "y": 980,
+        "wires": [
+            [
+                "e5d8fde28ec32a0c"
+            ],
+            [
+                "b9ed95129ea972ac"
+            ]
+        ]
+    },
+    {
+        "id": "e5d8fde28ec32a0c",
+        "type": "change",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "Mostra",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"show\":[\"Statistiche_Grafico_andamento\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 940,
+        "wires": [
+            [
+                "756b446facaa7fdf"
+            ]
+        ]
+    },
+    {
+        "id": "b9ed95129ea972ac",
+        "type": "change",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "Nascondi",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"hide\":[\"Statistiche_Grafico_andamento\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 960,
+        "y": 1000,
+        "wires": [
+            [
+                "756b446facaa7fdf"
+            ]
+        ]
+    },
+    {
+        "id": "756b446facaa7fdf",
+        "type": "ui_ui_control",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "",
+        "events": "all",
+        "x": 1140,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c2955c481820761",
+        "type": "inject",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 350,
+        "y": 940,
+        "wires": [
+            [
+                "c0923620dbd714b1"
+            ]
+        ]
+    },
+    {
+        "id": "158e7d4088fc4467",
+        "type": "ui_gauge",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "",
+        "group": "c229946e56b65abb",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatura media per periodo",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#0350fc",
+            "#ffd731",
+            "#fd3301"
+        ],
+        "seg1": "10",
+        "seg2": "30",
+        "diff": false,
+        "className": "",
+        "x": 1110,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "a7a6c1dc02979dbe",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "MaxExtraction",
+        "func": "// Funzione per l'estrazione del valore\nvar extractMax = function(results) {\n    // Estrae il campo _value dal primo oggetto nell'array\n    if (Array.isArray(results) && results.length > 0) {\n        return results[0]._value.toFixed(2);  //toFixed(2) approssima a 2 cifre decimali dopo la virgola\n    } else {\n        return 0;\n    }\n};\n\n// Estrae il valore del campo _value utilizzando la funzione\nvar value = extractMax(msg.payload);\n\n// Passa il valore estratto al nodo successivo\nreturn {payload: value};\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 400,
+        "wires": [
+            [
+                "b940efc28a92ee2f"
+            ]
+        ]
+    },
+    {
+        "id": "61a49ec65ee3905e",
+        "type": "ui_date_picker",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "",
+        "label": "Seleziona data",
+        "group": "c229946e56b65abb",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 180,
+        "y": 600,
+        "wires": [
+            [
+                "aa31122102df1bf0",
+                "fe8575482a7140a7",
+                "d3d16090a642af39",
+                "0df2b4b1c6973633",
+                "fa16ae2e2377fb04"
+            ]
+        ]
+    },
+    {
+        "id": "545b7aeb10fa56fe",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Media",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 580,
+        "wires": [
+            [
+                "47cafebb35aea837"
+            ]
+        ]
+    },
+    {
+        "id": "aa31122102df1bf0",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Media query",
+        "func": "var dateInput = msg.payload;\n\n// Converti il timestamp in una data\nvar date = new Date(dateInput); \n\n// Converti la data nel formato ISO 8601 senza il tempo specifico\nvar formattedDate = date.toISOString().split('T')[0]; \n\n// Genera la query InfluxDB utilizzando la data fornita\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: ${formattedDate}T00:00:00Z, stop: ${formattedDate}T23:59:59Z)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> mean(column: \"_value\")\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 580,
+        "wires": [
+            [
+                "545b7aeb10fa56fe"
+            ]
+        ]
+    },
+    {
+        "id": "b940efc28a92ee2f",
+        "type": "ui_gauge",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "",
+        "group": "c229946e56b65abb",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatura massima registrata",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#0350fc",
+            "#ffd731",
+            "#fd3301"
+        ],
+        "seg1": "10",
+        "seg2": "30",
+        "diff": false,
+        "className": "",
+        "x": 1110,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "e72195b9af7c7ef3",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Count query",
+        "func": "var limit = msg.payload;\n\n// Genera la query InfluxDB utilizzando il limite di tempo fornito in minuti\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: -${limit}m)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> count()\n  |> yield(name: \"count\")\n  |> map(fn: (r) => ({_value: r._value}))\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 280,
+        "wires": [
+            [
+                "985fd3d9e38c7e6e"
+            ]
+        ]
+    },
+    {
+        "id": "985fd3d9e38c7e6e",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Count",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 280,
+        "wires": [
+            [
+                "8fe0cd86dec22a83"
+            ]
+        ]
+    },
+    {
+        "id": "e10b0ce3bda275d1",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Read query",
+        "func": "var limit = msg.payload;\n\n// Genera la query InfluxDB utilizzando il limite di tempo fornito in minuti\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: -${limit}m)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 460,
+        "wires": [
+            [
+                "cb6572360155a7ba"
+            ]
+        ]
+    },
+    {
+        "id": "cb6572360155a7ba",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Read",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 460,
+        "wires": [
+            [
+                "5bd08717b19a2e74"
+            ]
+        ]
+    },
+    {
+        "id": "dd24d86311d3a51c",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Media query",
+        "func": "var limit = msg.payload;\n\n// Genera la query InfluxDB utilizzando il limite di tempo fornito in minuti\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: -${limit}m)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> mean()\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 340,
+        "wires": [
+            [
+                "40867d5feafcde45"
+            ]
+        ]
+    },
+    {
+        "id": "40867d5feafcde45",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Media",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 340,
+        "wires": [
+            [
+                "47cafebb35aea837"
+            ]
+        ]
+    },
+    {
+        "id": "6a40e9b57740d1b3",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Massimo query",
+        "func": "var limit = msg.payload;\n\n// Genera la query InfluxDB utilizzando il limite di tempo fornito in minuti\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: -${limit}m)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> max(column: \"_value\")\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 400,
+        "wires": [
+            [
+                "9ec857bbc97a71cb"
+            ]
+        ]
+    },
+    {
+        "id": "9ec857bbc97a71cb",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Massimo",
+        "query": "\n\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 580,
+        "y": 400,
+        "wires": [
+            [
+                "a7a6c1dc02979dbe"
+            ]
+        ]
+    },
+    {
+        "id": "fe8575482a7140a7",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Count query",
+        "func": "var dateInput = msg.payload;\n\n// Converti il timestamp in una data\nvar date = new Date(dateInput); \n\n// Converti la data nel formato ISO 8601 senza il tempo specifico\nvar formattedDate = date.toISOString().split('T')[0]; \n\n// Genera la query InfluxDB utilizzando la data fornita\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: ${formattedDate}T00:00:00Z, stop: ${formattedDate}T23:59:59Z)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> count()\n  |> yield(name: \"count\")\n  |> map(fn: (r) => ({_value: r._value}))\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 540,
+        "wires": [
+            [
+                "0af985d161527122"
+            ]
+        ]
+    },
+    {
+        "id": "d3d16090a642af39",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Massimo query",
+        "func": "var dateInput = msg.payload;\n\n// Converti il timestamp in una data\nvar date = new Date(dateInput);\n\n// Converti la data nel formato ISO 8601 senza il tempo specifico\nvar formattedDate = date.toISOString().split('T')[0];\n\n// Genera la query InfluxDB utilizzando la data fornita\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: ${formattedDate}T00:00:00Z, stop: ${formattedDate}T23:59:59Z)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n  |> max(column: \"_value\")\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 620,
+        "wires": [
+            [
+                "c57393b270a94006"
+            ]
+        ]
+    },
+    {
+        "id": "0df2b4b1c6973633",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Read query",
+        "func": "var dateInput = msg.payload;\n\n// Converti il timestamp in una data\nvar date = new Date(dateInput); \n\n// Converti la data nel formato ISO 8601 senza il tempo specifico\nvar formattedDate = date.toISOString().split('T')[0]; \n\n// Genera la query InfluxDB utilizzando la data fornita\nvar query = `\nfrom(bucket: \"Environment\")\n  |> range(start: ${formattedDate}T00:00:00Z, stop: ${formattedDate}T23:59:59Z)\n  |> filter(fn: (r) => r[\"_measurement\"] == \"Temperature\")\n  |> filter(fn: (r) => r[\"_field\"] == \"temp\")\n`;\n\n// Imposta la query come payload del messaggio da inviare al nodo InfluxDB\nmsg.query = query; // Cambiato da msg.payload a msg.query\n\n// Passa il messaggio al prossimo nodo nel flusso (nodo InfluxDB)\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 660,
+        "wires": [
+            [
+                "e5601b582b64c99f"
+            ]
+        ]
+    },
+    {
+        "id": "0af985d161527122",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Count",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 540,
+        "wires": [
+            [
+                "8fe0cd86dec22a83"
+            ]
+        ]
+    },
+    {
+        "id": "c57393b270a94006",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Massimo",
+        "query": "\n\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 580,
+        "y": 620,
+        "wires": [
+            [
+                "a7a6c1dc02979dbe"
+            ]
+        ]
+    },
+    {
+        "id": "e5601b582b64c99f",
+        "type": "influxdb in",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "influxdb": "535469324e6f3e3a",
+        "name": "Read",
+        "query": "",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "SmartGreenhouse",
+        "x": 590,
+        "y": 660,
+        "wires": [
+            [
+                "5bd08717b19a2e74"
+            ]
+        ]
+    },
+    {
+        "id": "064d952b2fc9c5a0",
+        "type": "ui_text",
+        "z": "9015b117e106c4b3",
+        "g": "28e95888b1e22b9c",
+        "group": "c229946e56b65abb",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Monitoraggio ultimi 30 giorni",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#05be70",
+        "x": 200,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "fa16ae2e2377fb04",
+        "type": "change",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Cancella range",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 160,
+        "y": 480,
+        "wires": [
+            [
+                "c22273bb68f30ec6"
+            ]
+        ]
+    },
+    {
+        "id": "8526cbb603732a3e",
+        "type": "comment",
+        "z": "9015b117e106c4b3",
+        "g": "28e95888b1e22b9c",
+        "name": "Elementi grafici",
+        "info": "NodO di testo che non contiene logica al suo interno",
+        "x": 160,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "b820baa9532b5aa5",
+        "type": "comment",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "Mostra andamento",
+        "info": "**\"Mostra andamento\" button** serve a mostrare/nascondere il gruppo della dashboard\ndenominato \"Grafico andamento\" che contiene il grafico a linea.\n\n**Toggle node** è un nodo del modulo **node-red-contrib-boolean-logic-ultimate** che\nha il compito di commutare alternativamente true e false al tocco del bottone. In tal modo,\ncliccando ripetutamente sul bottone si può mandare true/false al fine di mostrare/nascondere \nil gruppo del grafico.\nTale nodo importato facilita il compito, diversamente si sarebbe dovuta sviluppare una funzione\nper la commutazione in un nodo function.\nN.B.: il problema della commutazione esiste solo con il bottone, con lo switch vengono invece mandati\nesattamente i due valori logici in base allo stato dello switch.\n\n**\"Mostra/Nascondi\" switch**, in funzione del valore che riceve,  seleziona se \nmostrare o nascondere il gruppo della dashboard che contiene il grafico.\n\n**\"Mostra\" change** viene attivato quando lo switch riceve true e setta il \npayload al JSON {\"group\":{\"show\":[\"Statistiche_Grafico_andamento\"]}}\nche mostra il gruppo nella dashboard.\n\n**\"Nascondi\" change** viene attivato quando lo switch riceve false e setta il \npayload al JSON {\"group\":{\"hide\":[\"Statistiche_Grafico_andamento\"]}}\nche nasconde il gruppo nella dashboard.\n\n**ui_control** riceve il payload per mostrare o nascondere il gruppo e consente\nil controllo dinamico della dashboard.",
+        "x": 170,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "026f40fed7be086a",
+        "type": "ui_chart",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "",
+        "group": "dac07361045394b4",
+        "order": 1,
+        "width": 13,
+        "height": 7,
+        "label": "Andamento temperature",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Nessun andamento da mostrare",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#f97d10",
+            "#f97d10",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1090,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d9d2711dda67c68e",
+        "type": "function",
+        "z": "9015b117e106c4b3",
+        "g": "8e94eb96f392f847",
+        "name": "Formattazione chart",
+        "func": "// Recupera il payload dal messaggio\nlet data = msg.payload;\n\n// Crea un array vuoto per i dati formattati\nlet chartData = [];\n\n// Controlla se il payload è un array e se contiene dati\nif (Array.isArray(data) && data.length > 0) {\n    // Itera attraverso i dati JSON e formatta i dati per il grafico\n    data.forEach(item => {\n        chartData.push({ x: item._time, y: item._value });\n    });\n} else {\n    // Se l'array è vuoto, aggiunge un valore predefinito per evitare problemi di rendering\n    chartData.push({ x: new Date().toISOString(), y: null });\n}\n\n// Imposta il nuovo payload per il nodo chart\nmsg.payload = [{\n    \"series\": [\"Temperatura registrata\"], // Nome della serie\n    \"data\": [chartData], // Dati formattati\n    \"labels\": [\"Valori\"] // Etichetta dei dati\n}];\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 560,
+        "wires": [
+            [
+                "026f40fed7be086a"
+            ]
+        ]
+    },
+    {
+        "id": "a91d0ecc9ecd563c",
+        "type": "ui_switch",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "",
+        "label": "Mostra dettagli:",
+        "tooltip": "",
+        "group": "c229946e56b65abb",
+        "order": 9,
+        "width": 4,
+        "height": 2,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-eye",
+        "oncolor": "#00FF00",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-eye-slash",
+        "offcolor": "#FF0000",
+        "animate": true,
+        "className": "",
+        "x": 340,
+        "y": 800,
+        "wires": [
+            [
+                "b118dcbb7f661a0f"
+            ]
+        ]
+    },
+    {
+        "id": "b118dcbb7f661a0f",
+        "type": "switch",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "Mostra/Nascondi",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 550,
+        "y": 800,
+        "wires": [
+            [
+                "6dc1934199220dc6"
+            ],
+            [
+                "75381d4c95e5df5e"
+            ]
+        ]
+    },
+    {
+        "id": "6dc1934199220dc6",
+        "type": "change",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "Mostra",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"show\":[\"Statistiche_Letture_sensori_temperatura_ambiente\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 730,
+        "y": 780,
+        "wires": [
+            [
+                "278a096e75e390f0"
+            ]
+        ]
+    },
+    {
+        "id": "75381d4c95e5df5e",
+        "type": "change",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "Nascondi",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"hide\":[\"Statistiche_Letture_sensori_temperatura_ambiente\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 740,
+        "y": 820,
+        "wires": [
+            [
+                "278a096e75e390f0"
+            ]
+        ]
+    },
+    {
+        "id": "278a096e75e390f0",
+        "type": "ui_ui_control",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "",
+        "events": "all",
+        "x": 900,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7074cf9a5ff67bcd",
+        "type": "inject",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 150,
+        "y": 800,
+        "wires": [
+            [
+                "a91d0ecc9ecd563c"
+            ]
+        ]
+    },
+    {
+        "id": "c529f71062059267",
+        "type": "comment",
+        "z": "9015b117e106c4b3",
+        "g": "ada6ee848e5be435",
+        "name": "Mostra letture",
+        "info": "**\"Mostra letture\" switch** serve a mostrare/nascondere il gruppo della dashboard\ndenominato \"Letture temperatura ambiente\" che contiene la tabella.\nDopo 0,1 sec una sola volta viene iniettato il valore false al fine di far partire\ndisabilitato il \"Mostra letture\" switch.\nViene customizzata l'icona dello switch con un occhio:\n-se lo switch è attivo, l'occhio è verde\n-se lo switch è disattivo, l'occhio è sbarrato e rosso\n\n**\"Mostra/Nascondi\" switch**, in funzione del valore che riceve,  seleziona se \nmostrare o nascondere il gruppo della dashboard che contiene la tabella.\n\n**\"Mostra\" change** viene attivato quando lo switch riceve true e setta il \npayload al JSON {\"group\":{\"show\":[\"Statistiche_Letture_sensori_temperatura_ambiente\"]}}\nche mostra il gruppo nella dashboard.\n\n**\"Nascondi\" change** viene attivato quando lo switch riceve false e setta il \npayload al JSON {\"group\":{\"hide\":[\"Statistiche_Letture_sensori_temperatura_ambiente\"]}}\nche nasconde il gruppo nella dashboard.\n\n**ui_control** riceve il payload per mostrare o nascondere il gruppo e consente\nil controllo dinamico della dashboard.",
+        "x": 150,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "d153694b8da6f9af",
+        "type": "ui_button",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "",
+        "group": "acf47c9b3cb4aa24",
+        "order": 3,
+        "width": 7,
+        "height": 1,
+        "passthru": false,
+        "label": "Mostra andamento",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#277CB7",
+        "className": "",
+        "icon": "fa-line-chart",
+        "payload": "toggle",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 330,
+        "y": 980,
+        "wires": [
+            [
+                "c0923620dbd714b1"
+            ]
+        ]
+    },
+    {
+        "id": "c0923620dbd714b1",
+        "type": "toggleUltimate",
+        "z": "9015b117e106c4b3",
+        "g": "8c5e415b6f2c0fb8",
+        "name": "Toggle",
+        "valueToToggle": "true",
+        "payloadPropName": "payload",
+        "translatorConfig": "",
+        "x": 530,
+        "y": 980,
+        "wires": [
+            [
+                "f472b7bb0fb590c2"
+            ]
+        ]
+    }
+]
