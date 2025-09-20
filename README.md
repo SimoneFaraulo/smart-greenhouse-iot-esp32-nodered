@@ -16,7 +16,7 @@ Here are some visuals of the implemented system and dashboard:
 ![Dashboard Preview](./images/dashboard.png)  
 
 ### Physical Greenhouse Prototype  
-![System Prototype](./images/greenhouse_prototype.jpg)  
+![System Prototype](./images/greenhouse_prototype.png)  
 
 ---
 
